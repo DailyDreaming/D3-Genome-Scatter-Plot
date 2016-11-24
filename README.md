@@ -1,2 +1,3 @@
 # D3-Genome-Scatter-Plot
-A Simple D3 Scatter Plot of Model Organism Genomes
+
+A simple D3 scatter plot of model organism genomes by size, proteins, and number of chromosomes.
